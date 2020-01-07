@@ -2,12 +2,14 @@
 	"plugin": [
 		{
 			"name": "TinyMCE",
-			"id": "tinymce",
+			"id": "сссмсмсмсмсм",
 			"description": "Edit rich text, straight from Mavo!",
 			"tag": [
-				"Editing"
+				"Editing",
+				"выавыа"
 			],
-			"author": "leaverou"
+			"author": "leaverou",
+			"repo": "счмс"
 		},
 		{
 			"id": "markdown",
